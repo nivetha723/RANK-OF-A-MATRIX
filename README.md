@@ -1,4 +1,6 @@
 # RANK-OF-A-MATRIX
+# Name: Nivetha N
+# Reg.No:212225040290
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
